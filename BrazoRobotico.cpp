@@ -30,3 +30,9 @@ void mover(double _x, double _y, double _z){
 	y = _y;
 	z = _z;
 }
+BrazoRobotico(double _x, double _y, double _z, bool _objeto){
+	x = _x;
+        y = _y;
+        z = _z;
+	objeto = objeto;
+}
